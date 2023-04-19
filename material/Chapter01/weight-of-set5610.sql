@@ -1,4 +1,4 @@
--- (1) Create a (single-column) table to hold textual LEGO set data
+-- (1) Create a (two-column) table to hold textual LEGO set data
 
 DROP TABLE IF EXISTS lego_sets;
 CREATE TABLE lego_sets (
