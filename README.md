@@ -5,7 +5,7 @@ Nähere Infos zur Organisation der Übungen findet ihr
 - im [Discord zur Veranstaltung](https://db.cs.uni-tuebingen.de/discord)
     (allgemeine organisatorische Infos, Termine und inhaltliche Diskussionen zu VL und Übung),
 
-- sowie auf der [Vorlesungswebsite](https://db.cs.uni-tuebingen.de/teaching)
+- sowie auf der [Vorlesungswebsite](https://db.cs.uni-tuebingen.de/teaching/ss23/db1/)
     (allgemeine organisatorische Infos und Termine).
 
 # Angaben zur/m Teilnehmenden (bitte selbst ausfüllen)
