@@ -1,0 +1,32 @@
+time	latitude	longitude	depth	mag	magType	nst	gap	dmin	rms	net	id	updated	place	type
+2013-10-08T12:08:25.000Z	58.6193	-156.005	85.2	2.9	Ml	\N	\N	\N	1.5	ak	ak10819249	2013-10-08T12:14:19.231Z	"38km E of King Salmon, Alaska"	earthquake
+2013-10-08T11:45:19.280Z	31.6814	131.7314	21.34	4.8	mb	\N	95	1.61	1.34	us	usb000k8i6	2013-10-08T12:20:28.000Z	"35km ENE of Nichinan, Japan"	earthquake
+2013-10-08T11:31:04.940Z	12.2779	-88.4332	48.22	4.3	mb	\N	195	1.602	0.62	us	usb000k8i0	2013-10-08T12:04:45.000Z	"109km SSW of Chirilagua, El Salvador"	earthquake
+2013-10-08T10:48:22.000Z	36.5863	-98.0361	5.3	3.2	mb_lg	\N	41	0.804	1.55	us	usb000k8hb	2013-10-08T12:13:09.462Z	"21km ENE of Helena, Oklahoma"	earthquake
+2013-10-08T09:57:52.300Z	38.8307	-122.8063	2.5	2.7	Md	\N	43.2	0.01796631	0.07	nc	nc72083416	2013-10-08T11:39:08.577Z	"7km W of Cobb, California"	earthquake
+2013-10-08T09:39:43.680Z	-2.6458	-105.5951	10	4.6	mb	\N	180	22.952	0.58	us	usb000k8ga	2013-10-08T10:42:43.000Z	"Central East Pacific Rise"	earthquake
+2013-10-08T09:37:24.960Z	6.4465	125.9881	73.09	4.9	mb	\N	98	0.74	0.62	us	usb000k8g7	2013-10-08T10:09:02.000Z	"13km WSW of Tiblawan, Philippines"	earthquake
+2013-10-08T09:13:53.990Z	-6.4983	129.9207	136.53	4.6	mb	\N	132	6.417	0.97	us	usb000k8fn	2013-10-08T09:36:27.000Z	"222km NW of Saumlaki, Indonesia"	earthquake
+2013-10-08T08:29:12.800Z	19.5755	-66.2127	44	3	Md	7	302.4	1.32501504	0.27	pr	pr13281000	2013-10-08T09:02:44.807Z	"123km N of San Juan, Puerto Rico"	earthquake
+2013-10-08T07:51:37.840Z	52.5677	-169.4704	10	4.2	mb	\N	175	0.551	1.09	us	usb000k8ez	2013-10-08T08:10:23.000Z	"57km SW of Nikolski, Alaska"	earthquake
+2013-10-08T07:13:31.990Z	-6.5721	130.1696	75.01	4.6	mb	\N	96	4.178	0.75	us	usb000k8ek	2013-10-08T07:32:51.000Z	"198km NW of Saumlaki, Indonesia"	earthquake
+2013-10-08T06:24:16.600Z	19.3148	-155.1142	7.7	2.7	Ml	\N	154.8	0.03593261	0.27	hv	hv60573321	2013-10-08T06:30:04.598Z	"18km SE of Volcano, Hawaii"	earthquake
+2013-10-08T06:18:06.000Z	56.6112	-154.0522	15.3	3.8	Ml	\N	\N	\N	1.05	ak	ak10819186	2013-10-08T06:32:57.968Z	"103km S of Larsen Bay, Alaska"	earthquake
+2013-10-08T05:29:43.200Z	40.4075	-122.0778	14.4	2.5	Md	\N	72	0.11678099	0.14	nc	nc72083346	2013-10-08T10:43:07.315Z	"17km E of Cottonwood, California"	earthquake
+2013-10-08T05:15:45.300Z	33.9488	-116.7445	18.2	2.5	Ml	83	25.2	0.09881468	0.22	ci	ci11374618	2013-10-08T05:26:35.317Z	"5km NE of Cabazon, California"	earthquake
+2013-10-08T04:07:34.100Z	38.7765	-122.7195	2.4	2.5	Md	\N	46.8	0	0.09	nc	nc72083281	2013-10-08T12:10:15.280Z	"3km E of The Geysers, California"	earthquake
+2013-10-08T03:24:01.300Z	35.6571	-96.6502	11.39	2.5	mb_lg	\N	97	0.173	1.02	us	usb000k8d1	2013-10-08T12:19:02.556Z	"10km S of Stroud, Oklahoma"	earthquake
+2013-10-08T02:52:12.320Z	27.0645	55.7386	49.13	4.8	mb	\N	115	2.151	1.53	us	usb000k8cv	2013-10-08T05:43:29.142Z	"54km WNW of Qeshm, Iran"	earthquake
+2013-10-08T02:45:53.600Z	35.9802	-117.3012	2.4	2.7	Ml	32	61.2	0.08983153	0.24	ci	ci11374578	2013-10-08T02:48:30.191Z	"25km NNE of Searles Valley, California"	earthquake
+2013-10-08T02:02:54.630Z	20.2581	121.9218	32.91	4.3	mb	\N	127	2.664	1.13	us	usb000k8c9	2013-10-08T10:05:28.596Z	"10km S of Uyugan, Philippines"	earthquake
+2013-10-08T01:58:11.180Z	30.2414	-74.1776	13.4	4.5	mb	\N	68	5.08	1.39	us	usb000k8bw	2013-10-08T10:00:51.227Z	"Off the east coast of the United States"	earthquake
+2013-10-08T01:39:23.820Z	-20.6233	-178.7338	592.13	4.7	mb	\N	80	8.43	1.05	us	usb000k8bp	2013-10-08T09:41:57.030Z	"4km NW of Ndoi Island, Fiji"	earthquake
+2013-10-07T22:25:15.970Z	20.6456	145.6445	86.71	4.7	mb	\N	127	3.926	0.77	us	usb000k8aa	2013-10-08T06:27:49.956Z	"78km E of Farallon de Pajaros, Northern Mariana Islands"	earthquake
+2013-10-07T20:54:28.600Z	35.9862	-117.2907	5.3	2.6	Ml	34	90	0.09881468	0.12	ci	ci11374402	2013-10-07T23:19:21.011Z	"26km NNE of Searles Valley, California"	earthquake
+2013-10-07T19:34:57.900Z	18.7402	-63.5369	29	2.7	Md	4	342	0.75368652	0.27	pr	pr13280003	2013-10-08T00:11:58.707Z	"76km NW of The Valley, Anguilla"	earthquake
+2013-10-07T15:36:22.670Z	-10.1403	151.681	36.18	4.7	mb	\N	105	4.516	1.59	us	usb000k7zy	2013-10-07T23:38:49.769Z	"122km ENE of Samarai, Papua New Guinea"	earthquake
+2013-10-07T15:17:25.010Z	-10.1731	151.8462	34.85	5.1	mb	\N	46	4.681	0.84	us	usb000k7zm	2013-10-07T23:19:52.328Z	"138km ENE of Samarai, Papua New Guinea"	earthquake
+2013-10-07T14:33:35.900Z	19.3898	-155.2778	3.1	2.5	Ml	\N	43.2	0.00898315	0.24	hv	hv60573101	2013-10-07T14:39:29.234Z	"6km SW of Volcano, Hawaii"	earthquake
+2013-10-07T14:21:00.610Z	34.3581	136.1796	387.62	4.2	mb	\N	63	1.211	0.92	us	usb000k7yf	2013-10-07T22:23:36.824Z	"28km SE of Haibara, Japan"	earthquake
+2013-10-07T13:32:10.000Z	-10.0545	151.793	38.41	5.3	mb	\N	46	4.612	0.84	us	usb000k7xw	2013-10-07T21:34:50.175Z	"138km ENE of Samarai, Papua New Guinea"	earthquake
+2013-10-07T13:20:47.000Z	53.5745	-172.2606	21.5	2.7	Ml	\N	\N	\N	0.83	ak	ak10818579	2013-10-07T18:28:21.760Z	"138km NNW of Amukta Island, Alaska"	earthquake
