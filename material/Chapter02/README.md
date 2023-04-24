@@ -36,3 +36,16 @@
 - `worst-northern-quake-mag-place.jq`: Magnitude _and location_ of the worst earthquake on the northern hemisphere. JSONiq query, reads `earthquakes.json`.
 
 - `earthquakes-dup.json`: Earthquake data provided by the US Geological Survey, ⚠️ contains a duplicate of the magnitude 4.9 earthquake (JSON, Data Model Nested Arrays and Dictionaries).
+
+### Data Model Tabular
+
+ - `project.py`: Basic PyQL example (requires Python module `DB1`, see `material/DB1.py`). 
+
+   Usage (UNIX-Shell):
+   ~~~
+   $ python3 project.py
+   ~~~
+
+- `worst-northern-quake-mag.py`: Magnitude of the worst earthquake on the northern hemisphere. PyQL query, reads `earthquakes.csv`.
+
+- `worst-northern-quake-mag-place.jq`: Magnitude _and location_ of the worst earthquake on the northern hemisphere. PyQL query, reads `earthquakes.csv`.
