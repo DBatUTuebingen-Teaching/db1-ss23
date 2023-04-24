@@ -1,5 +1,12 @@
 ## DB1 Lecture Material
 
-Over the course of the semester, you will find source (shell and
-Python scripts, JSONiq and SQL queries) as well as data files
-ready for download.
+- `DB1.py`: Python3 module that provides simple query functionality (PyQL)
+
+  Usage (in Python 3):
+  ~~~
+  from DB1 import Table
+
+  t = Table('‹file›.csv')
+  for row in t:
+    ...
+  ~~~
