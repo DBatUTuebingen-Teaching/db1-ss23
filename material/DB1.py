@@ -29,9 +29,12 @@ class Table:
     try:
       # case: Table(<file.csv>)
       self.input = open(input, 'r', encoding='utf8')
-    except FileNotFoundError:
-      # case: Table('...')
-      self.input = io.StringIO(input)
+    except FileNotFoundError as e:
+      if input[-4:] == '.csv':
+        print(e)
+      else:
+        # case: Table('...')
+        self.input = io.StringIO(input)
 
     self.rows = csv.DictReader(self.input, dialect='table')
     self.fields = self.rows.fieldnames
