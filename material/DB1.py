@@ -31,7 +31,7 @@ class Table:
       self.input = open(input, 'r', encoding='utf8')
     except FileNotFoundError as e:
       if input[-4:] == '.csv':
-        print(e)
+        raise e
       else:
         # case: Table('...')
         self.input = io.StringIO(input)
