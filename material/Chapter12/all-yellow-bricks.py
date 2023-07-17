@@ -15,22 +15,22 @@ colors = Table('colors.csv')
 
 
 # RA query (plan as discussed in lecture)
-
-               π[set,name,img]
-               |
-               ⋈
-              /  \
-           sets   -
-                /   \
-           π[set]    π[set]
-             |       |
-           sets      σ[color ≠ 'Yellow']
-                     |
-                     π[set,color←name]
-                     |
-                     ⋈
-                    / \
-            contains   colors
+#
+#               π[set,name,img]
+#               |
+#               ⋈
+#              /  \
+#           sets   -
+#                /   \
+#           π[set]    π[set]
+#             |       |
+#           sets      σ[color ≠ 'Yellow']
+#                     |
+#                     π[set,color←name]
+#                     |
+#                     ⋈
+#                    / \
+#            contains   colors
 
 q = project(['set','name','img'],
       natjoin(
