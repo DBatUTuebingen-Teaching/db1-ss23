@@ -1,0 +1,155 @@
+color	name	finish	rgb	from_year	to_year
+0	(Not Applicable)	N/A	\N	1954	2013
+41	Aqua	Solid	b5d3d6	1998	2006
+11	Black	Solid	212121	1957	2013
+7	Blue	Solid	0057a6	1950	2013
+97	Blue-Violet	Solid	506cef	2004	2005
+36	Bright Green	Solid	10cb31	1950	2013
+105	Bright Light Blue	Solid	9fc3e9	2004	2013
+110	Bright Light Orange	Solid	f7ba30	2000	2013
+103	Bright Light Yellow	Solid	f3e055	2004	2013
+104	Bright Pink	Solid	ffbbff	2003	2013
+8	Brown	Solid	532115	1974	2006
+153	Dark Azure	Solid	3399ff	2011	2013
+63	Dark Blue	Solid	143044	1961	2013
+109	Dark Blue-Violet	Solid	2032b0	2004	2006
+85	Dark Bluish Gray	Solid	595d60	1991	2013
+120	Dark Brown	Solid	330000	2008	2013
+91	Dark Flesh	Solid	774125	2004	2006
+10	Dark Gray	Solid	6b5a5a	1961	2007
+80	Dark Green	Solid	2e5543	1961	2013
+68	Dark Orange	Solid	b35408	1979	2013
+47	Dark Pink	Solid	c87080	1994	2013
+89	Dark Purple	Solid	5f2683	2003	2013
+59	Dark Red	Solid	6a0e15	1961	2013
+69	Dark Tan	Solid	907450	1961	2013
+39	Dark Turquoise	Solid	008a80	1998	2005
+29	Earth Orange	Solid	e6881d	1982	2008
+106	Fabuland Brown	Solid	b3694e	1979	1997
+160	Fabuland Orange	Solid	ef9121	\N	\N
+28	Flesh	Solid	cc8062	1979	2012
+6	Green	Solid	00642e	1950	2013
+154	Lavender	Solid	cba2c8	2011	2013
+152	Light Aqua	Solid	ccffff	2011	2013
+62	Light Blue	Solid	b4d2e3	1950	2007
+86	Light Bluish Gray	Solid	afb5c7	1993	2013
+90	Light Flesh	Solid	feccb0	2003	2013
+9	Light Gray	Solid	9c9c9c	1954	2008
+38	Light Green	Solid	a5dbb5	1992	2007
+35	Light Lime	Solid	ebee8f	1992	2007
+32	Light Orange	Solid	f7ad63	1998	2006
+56	Light Pink	Solid	ffe1ff	1994	2007
+93	Light Purple	Solid	da70d6	2004	2007
+26	Light Salmon	Solid	ffdedc	1997	2004
+40	Light Turquoise	Solid	31b5ca	1998	2004
+44	Light Violet	Solid	c9cae2	1994	2005
+33	Light Yellow	Solid	ffe383	1994	2013
+34	Lime	Solid	a6ca55	1982	2013
+72	Maersk Blue	Solid	6badd6	1974	2011
+71	Magenta	Solid	b52952	2000	2013
+156	Medium Azure	Solid	42c0fb	2012	2013
+42	Medium Blue	Solid	61afff	1950	2013
+150	Medium Dark Flesh	Solid	e78b3e	2010	2013
+94	Medium Dark Pink	Solid	f785b1	1992	1996
+37	Medium Green	Solid	62f58e	1950	2004
+157	Medium Lavender	Solid	b5a5d5	2012	2013
+76	Medium Lime	Solid	bdc618	1998	2012
+31	Medium Orange	Solid	ffa531	1950	2008
+73	Medium Violet	Solid	9391e4	1999	2005
+155	Olive Green	Solid	7c9051	2012	2013
+4	Orange	Solid	ff7e14	1993	2013
+23	Pink	Solid	ffc0cb	1991	2006
+24	Purple	Solid	a5499c	1996	2012
+5	Red	Solid	b30006	1950	2013
+88	Reddish Brown	Solid	89351d	1961	2013
+27	Rust	Solid	b52c20	1989	2001
+25	Salmon	Solid	f45c40	1997	2003
+55	Sand Blue	Solid	5a7184	2001	2013
+48	Sand Green	Solid	76a290	1964	2013
+54	Sand Purple	Solid	b57da5	2001	2002
+58	Sand Red	Solid	8c6b6b	2001	2004
+87	Sky Blue	Solid	7dbfdd	2003	2007
+2	Tan	Solid	dec69c	1958	2013
+99	Very Light Bluish Gray	Solid	e4e8e8	2004	2013
+49	Very Light Gray	Solid	e8e8e8	1997	2006
+96	Very Light Orange	Solid	e6c05d	2000	2006
+43	Violet	Solid	3448a4	1992	2004
+1	White	Solid	ffffff	1950	2013
+3	Yellow	Solid	f7d117	1950	2013
+158	Yellowish Green	Solid	dfeea5	2012	2012
+13	Trans-Black	Transparent	939484	1999	2013
+108	Trans-Bright Green	Transparent	10cb31	2003	2013
+12	Trans-Clear	Transparent	eeeeee	1950	2013
+14	Trans-Dark Blue	Transparent	00296b	1978	2013
+50	Trans-Dark Pink	Transparent	ce1d9b	1998	2013
+20	Trans-Green	Transparent	217625	1969	2013
+15	Trans-Light Blue	Transparent	68bcc5	1985	2013
+114	Trans-Light Purple	Transparent	b97ab1	2005	2005
+74	Trans-Medium Blue	Transparent	7384a5	2001	2013
+16	Trans-Neon Green	Transparent	c0f500	1990	2013
+18	Trans-Neon Orange	Transparent	ff4231	1993	2013
+121	Trans-Neon Yellow	Transparent	ffd700	2001	2005
+98	Trans-Orange	Transparent	d78019	2003	2013
+107	Trans-Pink	Transparent	ff8298	2003	2012
+51	Trans-Purple	Transparent	8320b7	2000	2013
+17	Trans-Red	Transparent	9c0010	1969	2013
+113	Trans-Very Lt Blue	Transparent	b7c8bf	2003	2006
+19	Trans-Yellow	Transparent	ebf72d	1969	2013
+57	Chrome Antique Brass	Chrome	645a4c	2001	2005
+122	Chrome Black	Chrome	544e4f	2009	2009
+52	Chrome Blue	Chrome	5c66a4	1998	2006
+21	Chrome Gold	Chrome	f1f2e1	1989	2013
+64	Chrome Green	Chrome	3cb371	1999	1999
+82	Chrome Pink	Chrome	aa4d8e	2001	2007
+22	Chrome Silver	Chrome	dcdcdc	1966	2013
+84	Copper	Pearl	c66921	2001	2012
+81	Flat Dark Gold	Pearl	ad7118	2003	2012
+95	Flat Silver	Pearl	8d949c	1998	2013
+78	Metal Blue	Pearl	5686ae	2002	2006
+77	Pearl Dark Gray	Pearl	666660	2002	2013
+115	Pearl Gold	Pearl	e79500	2002	2013
+61	Pearl Light Gold	Pearl	e7ae5a	2000	2006
+66	Pearl Light Gray	Pearl	acb7c0	1993	2013
+119	Pearl Very Light Gray	Pearl	d4d2cd	2002	2003
+83	Pearl White	Pearl	ffffff	2003	2006
+65	Metallic Gold	Metallic	b8860b	1997	2013
+70	Metallic Green	Metallic	bdb573	2001	2003
+67	Metallic Silver	Metallic	c0c0c0	1957	2013
+46	Glow In Dark Opaque	Milky	d4d5c9	1990	2011
+118	Glow In Dark Trans	Milky	bdc6ad	2005	2011
+159	Glow in Dark White	Milky	d9d9d9	2012	2013
+60	Milky White	Milky	d4d3dd	1963	2008
+101	Glitter Trans-Clear	Glitter	b2adaa	1999	2007
+100	Glitter Trans-Dark Pink	Glitter	ab43c3	1999	2012
+102	Glitter Trans-Purple	Glitter	3a2b82	2000	2005
+116	Speckle Black-Copper	Speckle	5f4e47	2006	2006
+151	Speckle Black-Gold	Speckle	ab9421	2010	2011
+111	Speckle Black-Silver	Speckle	7c7e7c	2005	2013
+117	Speckle DBGray-Silver	Speckle	4a6363	2006	2006
+142	Mx Aqua Green	Modulex	27867e	\N	\N
+128	Mx Black	Modulex	000000	\N	\N
+132	Mx Brown	Modulex	907450	\N	\N
+133	Mx Buff	Modulex	dec69c	\N	\N
+126	Mx Charcoal Gray	Modulex	595d60	\N	\N
+149	Mx Clear	Modulex	ffffff	\N	\N
+139	Mx Lemon	Modulex	bdc618	\N	\N
+124	Mx Light Bluish Gray	Modulex	afb5c7	\N	\N
+125	Mx Light Gray	Modulex	9c9c9c	\N	\N
+136	Mx Light Orange	Modulex	f7ad63	\N	\N
+137	Mx Light Yellow	Modulex	ffe371	\N	\N
+144	Mx Medium Blue	Modulex	61afff	\N	\N
+138	Mx Ochre Yellow	Modulex	fed557	\N	\N
+140	Mx Olive Green	Modulex	7c9051	\N	\N
+135	Mx Orange	Modulex	f47b30	\N	\N
+145	Mx Pastel Blue	Modulex	68aece	\N	\N
+141	Mx Pastel Green	Modulex	7db538	\N	\N
+148	Mx Pink	Modulex	f785b1	\N	\N
+130	Mx Pink Red	Modulex	f45c40	\N	\N
+129	Mx Red	Modulex	b52c20	\N	\N
+146	Mx Teal Blue	Modulex	467083	\N	\N
+134	Mx Terracotta	Modulex	5c5030	\N	\N
+143	Mx Tile Blue	Modulex	0057a6	\N	\N
+131	Mx Tile Brown	Modulex	330000	\N	\N
+127	Mx Tile Gray	Modulex	6b5a5a	\N	\N
+147	Mx Violet	Modulex	bd7d85	\N	\N
+123	Mx White	Modulex	ffffff	\N	\N
